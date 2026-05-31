@@ -1,0 +1,27 @@
+---
+layout: home
+
+hero:
+  name: "NS虚幻插件文档"
+  text: "专业的Unreal Engine插件解决方案"
+  tagline: 提供全面的虚幻引擎插件开发文档和示例
+  actions:
+    - theme: brand
+      text: 查看插件文档
+      link: /plugins/ns-replay
+    - theme: alt
+      text: English Documentation
+      link: /en/
+
+features:
+  - title: NS_Replay
+    details: 强大的游戏会话录制和回放系统
+  - title: NS_HttpJson
+    details: 简单易用的HTTP请求和JSON数据处理
+  - title: NS_Encryption
+    details: 安全的加密和解密功能库
+  - title: NS_BlueprintToText
+    details: 将蓝图转换为可读的文本格式
+  - title: NS_DS_Commander
+    details: 专用服务器管理和监控工具
+---
