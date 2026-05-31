@@ -1,0 +1,1 @@
+const s="/NS_Doc/assets/folder-export.CX5ojGQd.png",t="/NS_Doc/assets/translation-settings.QlmLjYKs.png",o="/NS_Doc/assets/folder-translate.BZimsFLA.png",a="/NS_Doc/assets/translation-result.BQWzsYQP.png";export{s as _,t as a,o as b,a as c};
