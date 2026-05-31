@@ -6,6 +6,7 @@ export default defineConfig({
   description: "NS虚幻插件文档",
   base: '/NS_Doc/wd/',
   outDir: '../wd',
+  appearance: 'dark',
   themeConfig: {
     outline: {
       label: ''
