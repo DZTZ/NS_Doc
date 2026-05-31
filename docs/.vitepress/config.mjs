@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "NS虚幻插件文档",
   description: "NS虚幻插件文档",
+  outDir: '../wd',
   themeConfig: {
     outline: {
       label: ''
