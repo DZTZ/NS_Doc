@@ -3,13 +3,11 @@ node_modules/
 jspm_packages/
 
 # 构建输出
-dist/
 build/
 out/
 .next/
 .nuxt/
 .cache/
-.vitepress/dist/
 .vitepress/cache/
 
 # 日志文件
